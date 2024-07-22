@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Computer Science Engineer, Frontend Web Developer and Educational content creator at Instagram and Youtube.</h3><br>
 
 
-- 🔭 I’m currently studying in **K.I.E.T**
+- 🔭 I’m currently persuing Btech from **K.I.E.T**
 
 - 🌱 Fluent in Technology **Data Structures and Algorithms, NodeJS, NextJS, Tailwind CSS**
 
