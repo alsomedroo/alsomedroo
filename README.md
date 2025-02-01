@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently persuing Btech from **K.I.E.T**
 
-- 🌱 Fluent in Technology **Data Structures and Algorithms, NodeJS, NextJS, Tailwind CSS**
+- 🌱 Fluent in Technology **Data Structures and Algorithms, React, Express, Websockets, MongoDB, PostgresSQL**  
 
 - 👨‍💻 All of my projects are available at **[https://github.com/alsomedroo](https://github.com/alsomedroo?tab=repositories)**
 
